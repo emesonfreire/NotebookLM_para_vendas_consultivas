@@ -345,9 +345,9 @@ Para maximizar o sucesso, o vendedor deve adaptar suas perguntas do método **SP
 
 ---
 
-## 👤 Autor
+## 👤 Autor Emeson Freire / IA
 
-Desenvolvido como projeto prático para o desafio da **DIO (Digital Innovation One)** — explorando o uso de IA como ferramenta ativa de aprendizado e construção de conhecimento.
+Desenvolvido como projeto prático para o desafio da **DIO (Digital Innovation One) para o Bootcamp Accenture - Python para Análise e Automação de Dados** — explorando o uso de IA como ferramenta ativa de aprendizado e construção de conhecimento.
 
 ---
 
