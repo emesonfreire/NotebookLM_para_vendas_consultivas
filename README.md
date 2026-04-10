@@ -11,7 +11,7 @@
 
 Todo o processo de curadoria, perguntas e sínteses foi desenvolvido no NotebookLM.
 Acesse o caderno completo aqui:
-👉 [Abrir Notebook — Psychology & Strategy for High-Value Consultative Sales](https://notebooklm.google.com/notebook/1bd05816-d53e-4382-a60c-f055b34d53b9)
+👉 [Abrir Notebook — Psicologia e estratégia para vendas consultivas de alto valor](https://notebooklm.google.com/notebook/1bd05816-d53e-4382-a60c-f055b34d53b9)
 
 
 ## 📌 Contexto e Objetivos
