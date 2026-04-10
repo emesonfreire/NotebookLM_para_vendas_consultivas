@@ -2,7 +2,7 @@
 ### *Um Caderno Temático baseado no método SPIN Selling e na ciência por trás da venda consultiva*
 
 ---
-![Banner do Projeto](./banner.png)
+![Banner do Projeto](./spin_selling_banner_pt.svg)
 > *"As pessoas não compram produtos ou serviços — elas compram soluções para seus problemas e realizações para seus sonhos."*
 
 ---
