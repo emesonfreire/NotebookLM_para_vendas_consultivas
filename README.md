@@ -213,6 +213,21 @@ Auto-persuasão: Quando o próprio cliente articula verbalmente as consequência
 Enquanto o excesso de perguntas de Situação pode entediar o comprador e é a marca de vendedores inexperientes, as perguntas de Implicação exigem um conhecimento profundo do negócio do cliente e são as que mais agregam valor à venda consultiva
 .
 
+
+** Referências **
+Spin Selling Guide: Methodology, Examples & Training
+Tratado de Excelência em Vendas Consultivas: Psicologia Aplicada e Estratégia de Alta Performance através do SPIN Selling
+SPIN Selling | Neil Rackham | Audiobook
+Tratado de Excelência em Vendas Consultivas: Psicologia Aplicada e Estratégia de Alta Performance através do SPIN Selling
+SPIN ALCANÇANDO EXCELÊNCIA EM VENDAS AUDIOBOOK
+
+( Para verificar as fontes de referência basta clicar em cima de cada número e rolar ate o final que o notebook mostra qual a referencia ele usou para dar resposta daquele parágrafo veja abaixo )
+
+<img width="568" height="382" alt="image" src="https://github.com/user-attachments/assets/b0f2b48f-ed42-465e-9690-f2a8f9837c45" />
+
+<img width="972" height="407" alt="image" src="https://github.com/user-attachments/assets/209643a4-89fc-439c-9872-8d99595ee6ec" />
+
+
 ---
 
 ### Prompt 2 — Contornando objeções com inteligência
@@ -250,9 +265,16 @@ Se as objeções surgem logo no início da visita, é um sinal claro de que o ve
 Vendedores de elite recebem menos objeções desse tipo porque usam perguntas de Implicação e Necessidade de Solução para construir o valor antes de propor a solução, transformando a decisão em uma conclusão lógica e sem atrito
 .
 Em resumo, enquanto a objeção genuína é uma barreira intransponível de mercado ou técnica, a objeção de valor é um sinal de que a "Equação de Valor" está desequilibrada: o peso do problema ainda parece menor do que o custo da solução na mente do comprador
+---
 
-**Insights e dificuldades:**
-O prompt precisou ser refinado para que a IA não misturasse técnicas de vendas transacionais (onde objeções são rebatidas com contra-argumentos) com a abordagem consultiva (onde objeções são sintomas diagnosticados). Aprendi que o **framing da pergunta** define muito o tipo de resposta que você obtém.
+**Referências**
+
+( Para verificar as fontes de referência basta clicar em cima de cada número e rolar ate o final que o notebook mostra qual a referencia ele usou para dar resposta daquele parágrafo veja abaixo )
+
+<img width="568" height="382" alt="image" src="https://github.com/user-attachments/assets/b0f2b48f-ed42-465e-9690-f2a8f9837c45" />
+
+<img width="972" height="407" alt="image" src="https://github.com/user-attachments/assets/209643a4-89fc-439c-9872-8d99595ee6ec" />
+
 
 ---
 
@@ -303,7 +325,16 @@ O perfil C aborda a compra de forma **sistemática, analítica e cética**.
 
 Para maximizar o sucesso, o vendedor deve adaptar suas perguntas do método **SPIN** ao perfil do comprador: ser breve na situação com o perfil **D**, focar em histórias na necessidade de solução com o perfil **I**, abordar riscos à equipe com o perfil **S**, e utilizar lógica rigorosa nas implicações com o perfil **C**.
 ---
+**Referências**
 
+( Para verificar as fontes de referência basta clicar em cima de cada número e rolar ate o final que o notebook mostra qual a referencia ele usou para dar resposta daquele parágrafo veja abaixo )
+
+<img width="568" height="382" alt="image" src="https://github.com/user-attachments/assets/b0f2b48f-ed42-465e-9690-f2a8f9837c45" />
+
+<img width="972" height="407" alt="image" src="https://github.com/user-attachments/assets/209643a4-89fc-439c-9872-8d99595ee6ec" />
+
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
