@@ -68,7 +68,7 @@ Explora como adaptar a abordagem de vendas com base no perfil DISC do comprador 
 
 ---
 
-## 🔬 Engenharia de Prompts e Cicatrizes de Aprendizado
+## 🔬 Engenharia de Prompts
 
 Esta seção documenta o processo de extração de conhecimento das fontes usando o **NotebookLM**. Aqui estão as perguntas estratégicas, variações testadas, respostas obtidas e os aprendizados.
 
