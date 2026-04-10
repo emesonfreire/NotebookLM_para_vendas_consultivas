@@ -2,7 +2,7 @@
 ### *Um Caderno Temático baseado no método SPIN Selling e na ciência por trás da venda consultiva*
 
 ---
-
+![Banner do Projeto](./banner.png)
 > *"As pessoas não compram produtos ou serviços — elas compram soluções para seus problemas e realizações para seus sonhos."*
 
 ---
@@ -157,6 +157,13 @@ Os prompts abaixo foram desenhados para serem reutilizados no NotebookLM ou em q
 ## 🚀 Como Usar Este Material
 
 Este repositório é um recurso vivo. Você pode clonar, adaptar e expandir o conteúdo para o seu contexto específico. O ideal é usar os prompts reutilizáveis periodicamente — antes de reuniões importantes, para treinar sua equipe ou para revisar conceitos após um ciclo de vendas desafiador.
+Experimente tambem os recursos do Estúdio no notebookLM  ⬇️
+
+<img width="329" height="400" alt="image" src="https://github.com/user-attachments/assets/a2f60d24-362b-4497-8f02-bc7a4f2f4a94" />
+
+<img width="332" height="510" alt="image" src="https://github.com/user-attachments/assets/73f2d82b-e66a-48b7-98d9-49235aab9fee" />
+
+
 
 Lembre-se: **venda consultiva é uma prática, não uma teoria**. Quanto mais você exercitar as perguntas SPIN em conversas reais, mais natural e poderoso o método se torna.
 
